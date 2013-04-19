@@ -1,7 +1,7 @@
 browse-commit
 ---
 
-_browse-commit_ is a [oh-my-zsh] plugin that lets you open any commit in your browser from the command line.
+_browse-commit_ is an [oh-my-zsh] plugin that lets you open any commit in your browser from the command line.
 
 **Setup**
 
