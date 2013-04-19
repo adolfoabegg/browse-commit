@@ -1,3 +1,5 @@
+# Author: https://twitter.com/adolfoabegg
+#
 # Setup: cd into/your/project
 #        git config --add browse-commit.url https://github.com/your-username/your-project/commit
 #        You then must enable this pluging by adding browse-commit to your plugins list in your ~/.zshrc file

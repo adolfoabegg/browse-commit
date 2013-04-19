@@ -32,6 +32,10 @@ in my default browser.
  - **cpc** copies the url of the last commit to the clipboard
  - **cpc _bc7b10a_** copies the url of a specific commit to the clipboard
 
+**Author**
+
+[Adolfo Abegg]
 
 
   [oh-my-zsh]: https://github.com/robbyrussell/oh-my-zsh
+  [Adolfo Abegg]: https://twitter.com/adolfoabegg
