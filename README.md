@@ -36,6 +36,9 @@ If you're using [Antigen](https://github.com/zsh-lovers/antigen), just add `anti
  - **cpc** copies the url of the last commit to the clipboard
  - **cpc _bc7b10a_** copies the url of a specific commit to the clipboard
 
+# Compatibility
+_browse-commit_ uses `open`, so it currently only works on OS X.
+
 **Author**
 
 [Adolfo Abegg]
