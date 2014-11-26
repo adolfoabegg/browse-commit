@@ -22,12 +22,11 @@ $> cd ~/code/browse-commit
 $> git config --add browse-commit.url https://github.com/adolfoabegg/browse-commit/commit
 $> brc 9893058ccd2c5384748a10e491181a0d9955b80d
 ```
+That will open `https://github.com/adolfoabegg/browse-commit/commit/9893058ccd2c5384748a10e491181a0d9955b80d` in my default browser.
 
 ## Antigen
 
 If you're using [Antigen](https://github.com/zsh-lovers/antigen), just add `antigen bundle adolfoabegg/browse-commit` to your `.zshrc` along with your other plugins.
-
-That will open `https://github.com/adolfoabegg/browse-commit/commit/9893058ccd2c5384748a10e491181a0d9955b80d` in my default browser.
 
 # Usage
 
