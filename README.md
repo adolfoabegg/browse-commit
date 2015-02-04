@@ -19,10 +19,9 @@ $> vim ~/.zshrc
    // add browse-commit to the list of enabled plugins
    plugins=(git osx browse-commit)
 $> cd ~/code/browse-commit
-$> git config --add browse-commit.url https://github.com/adolfoabegg/browse-commit/commit/
+$> git config --add browse-commit.url https://github.com/adolfoabegg/browse-commit/commit
 $> brc 9893058ccd2c5384748a10e491181a0d9955b80d
 ```
-
 That will open `https://github.com/adolfoabegg/browse-commit/commit/9893058ccd2c5384748a10e491181a0d9955b80d` in my default browser.
 
 ## Antigen
