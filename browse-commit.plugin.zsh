@@ -16,7 +16,7 @@ commit_url=""
 
 browse_commit_init () {
     browse_commit_check_repo
-    browse_commit_get_url
+    browse_commit_get_url $1
 }
 
 # checks whether the current dir is a git repository or not
@@ -54,7 +54,7 @@ browse_commit_get_url () {
 
 # Opens the specified (or last commit) in the browser
 browse_commit_open () {
-    browse_commit_init
+    browse_commit_init $1
     if [ $all_good != "yes" ]; then 
         all_good="yes"
         return 
