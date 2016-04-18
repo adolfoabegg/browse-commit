@@ -26,7 +26,7 @@ That will open `https://github.com/adolfoabegg/browse-commit/commit/9893058ccd2c
 
 ## Antigen
 
-If you're using [Antigen](https://github.com/zsh-lovers/antigen), just add `antigen bundle adolfoabegg/browse-commit` to your `.zshrc` along with your other plugins.
+If you're using [Antigen](https://github.com/zsh-users/antigen), just add `antigen bundle adolfoabegg/browse-commit` to your `.zshrc` along with your other plugins.
 
 ## Zgen
 
